@@ -4,8 +4,8 @@ import { Header } from '../components/Header';
 export function OrdersPage() {
   return (
     <>
-    <Header/>
     <title>Orders</title>
+      <Header/>
       <div className="orders-page">
         <div className="page-title">Your Orders</div>
 
